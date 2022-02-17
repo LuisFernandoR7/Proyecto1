@@ -16,7 +16,7 @@ poly_prod(Ms,[N|Ns], Xs2) :-
     poly_sum(Ps, [0.0|Xs1], Xs2).
 
 % Esto es un saludo al Fer.
-% Respuesta al saludo
+% Respuesta al saludo de Beto
 
 /*
 ?- poly_prod([1,2,3,4],[5,6,7],Xs).
